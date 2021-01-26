@@ -1,0 +1,28 @@
+.main{
+    background-color: $jelly-bean;
+    text-align: center;
+    
+}
+
+.main__container { 
+    height: 450px;
+    text-align: center;
+}
+
+.main__title {
+    color: $white;
+    font-family: $raleway;
+    font-weight: $extra-light;
+    font-size: $large;
+    padding-top: 300px;
+   
+}
+
+.main__title-emphasis {
+    color: $white;
+    font-family: $raleway;
+    font-weight: $bold;
+    font-size: $x-large;
+    padding-bottom: 300px;
+    margin-bottom: 0;
+}

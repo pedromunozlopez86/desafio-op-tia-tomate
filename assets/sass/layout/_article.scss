@@ -1,0 +1,36 @@
+.article {
+    background-color: $granite-gray;
+}
+.article-2 {
+    background-color: $white;
+}
+
+.article__container {
+    text-align: center;
+    color: $white;
+    padding: 4rem;
+}
+
+.article__container-2 {
+    text-align: center;
+    color: $granite-gray;
+    padding: 4rem;
+}
+
+
+.article__image {
+    padding-bottom: 3rem;
+
+}
+
+.article__title {
+    font-weight: $bold;
+    font-size: $large;
+    padding-bottom: 1.5rem;
+}
+
+.article__text {
+    text-align: left;
+    padding-left: 8rem;
+    padding-right: 8rem;
+}

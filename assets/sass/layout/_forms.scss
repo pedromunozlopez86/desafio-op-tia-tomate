@@ -1,0 +1,26 @@
+.form {
+    background-color: $jelly-bean;
+    text-align: center;
+    padding: 100px 0;
+}
+
+.form__title {
+    color: $white;
+    font-weight: $bold;
+    font-size: $x-large;
+    padding: 2rem 0;
+}
+
+.form__button {
+    height: 100px;
+    width: 600px;
+    
+    
+}
+
+.form__button-title {
+    color: $granite-gray;
+    font-weight: $bold;
+    font-size: $large
+
+}
